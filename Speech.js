@@ -95,7 +95,7 @@ function drawLandingPage() {
 
   textSize(18);
   textStyle(NORMAL);
-  text("🗣 Say hi, ask how it feels, or tell it a joke.", width / 2, centerY + blockSpacing * 0.3);
+  text("🗣 Say hi, ask how it feels, or ask it to tell you a joke.", width / 2, centerY + blockSpacing * 0.3);
   text("😄 Your words affect its mood!", width / 2, centerY + blockSpacing * 1.1);
 
   // Start Button Styles
